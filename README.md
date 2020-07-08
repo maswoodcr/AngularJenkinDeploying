@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+================================================================================================================My read me file==========================
+## Create application in angular
+	ng new applicationName enter
+	cd applicationName enter
+	ng serve --0
+	
+## Installing bootstrap
+
+npm install jquery --save
+npm install popper.js --save
+npm install bootstrap --save
+npm install font-awesome --save	
